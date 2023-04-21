@@ -23,6 +23,7 @@
 #navbarSupportedContent{
     margin-left: 280px;
 }
+
 @media(max-width: 767px){
     #navbarSupportedContent{
        text-align: center;
